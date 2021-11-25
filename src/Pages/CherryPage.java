@@ -12,11 +12,11 @@ public class CherryPage {
 		int sal=100;
 		
 		
-		
+		//Master --> Commit
 		
 		// a9ee4bb (HEAD -> master) first cherry commit
 		// 1cebe53 (HEAD -> master) second cherry commit
-		//
+		// 5722139 (HEAD -> master) cherry third commit
 		//
 		//
 		
