@@ -5,6 +5,10 @@ public class CherryPage {
 	public void test() {
 		System.out.println("test feature...");
 	}
+	
+	public void display() {
+		System.out.println("test display...");
+	}
 
 	public static void main(String[] args) {
 		
@@ -16,9 +20,13 @@ public class CherryPage {
 		
 		// a9ee4bb (HEAD -> master) first cherry commit
 		// 1cebe53 (HEAD -> master) second cherry commit
-		// 5722139 (HEAD -> master) cherry third commit
-		// c6086af (HEAD -> master) cherry fourth commit
+		// 7881b98 (HEAD -> master) cherry fifth commit44
+		
+		// feature Branch --> commit ids
 		//
+		//
+		//
+		
 		
 
 	}
