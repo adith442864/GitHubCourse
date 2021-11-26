@@ -7,8 +7,8 @@ public class ClassicPage {
    int k=100;
    int k1 = 200;
    int div = k1/k;
-    system.out.println(div);
-    system.out.println("Bye!!!);
+    System.out.println(div);
+    System.out.println("Bye!!!")
     
   }
   
