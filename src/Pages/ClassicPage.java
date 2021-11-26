@@ -1,19 +1,8 @@
 package Pages;
 
 public class ClassicPage {
-<<<<<<< HEAD
-	
-	public void classic() {
-		
-		int n=10;
-		int n1=20;
-		int m=n+n1;
-		
-		System.out.println(m);
-	}
 
-=======
-  
+	
   public void classic()
   {
 
@@ -30,6 +19,4 @@ public class ClassicPage {
   }
   
   
-  
->>>>>>> 0314f3f1e281a27308995e138b0a4bd70463745d
 }
