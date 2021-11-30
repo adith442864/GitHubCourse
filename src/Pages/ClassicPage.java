@@ -24,7 +24,8 @@ public class ClassicPage {
   }
 	
 public void master(){
-	System.out.println("Hi Master");
-  
-  
+	System.out.println("Hi Master");  
+   }
+
+	
 }
