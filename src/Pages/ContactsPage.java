@@ -6,7 +6,10 @@ public class ContactsPage {
 	
 		String name1="contact d1";
 		System.out.println(name1);
-
+		
+		String feat = "test";
+		
+		
 	}
 
 }
