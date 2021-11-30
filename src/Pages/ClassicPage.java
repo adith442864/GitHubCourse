@@ -14,7 +14,11 @@ public class ClassicPage {
 
     String name = "Adith";
     
+
     int sal=12;
+    int a=25;
+   
+    
     
   }
   
