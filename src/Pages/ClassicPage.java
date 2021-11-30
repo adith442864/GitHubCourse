@@ -16,8 +16,9 @@ public class ClassicPage {
     
 
     int sal=15;
-    int a=25;
+    int age=25;
    
+    System.out.println("Hi Cart");
     
     
   }
