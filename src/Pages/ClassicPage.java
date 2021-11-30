@@ -20,6 +20,7 @@ public class ClassicPage {
    
     System.out.println("Hi Cart");
     
+    int h=10;
     
   }
   
