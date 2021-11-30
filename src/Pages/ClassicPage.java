@@ -15,7 +15,7 @@ public class ClassicPage {
     String name = "Adith";
     
 
-    int sal=12;
+    int sal=15;
     int a=25;
    
     
